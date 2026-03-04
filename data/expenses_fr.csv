@@ -1,0 +1,20 @@
+date,montant,catégorie,description,mode_paiement
+2024-08-01,4.50,alimentation,"Café du matin",AMEX
+2024-08-01,12.99,alimentation,"Sandwich du déjeuner",AMEX
+2024-08-01,45.00,transport,"Station-service",VISA
+2024-08-02,8.75,alimentation,"Burrito du petit-déjeuner",CASH
+2024-08-02,15.00,transport,"Parking centre-ville",VISA
+2024-08-02,25.99,divertissement,"Billet de cinéma",AMEX
+2024-08-03,6.00,alimentation,"Café",VISA
+2024-08-03,32.50,alimentation,"Courses",VISA
+2024-08-03,89.99,divertissement,"Billet de concert",VISA
+2024-08-04,5.25,alimentation,"Collation",CASH
+2024-08-04,18.00,transport,"Course Uber",VISA
+2024-08-04,42.00,alimentation,"Dîner",VISA
+2024-08-05,7.50,alimentation,"Café et pâtisserie",AMEX
+2024-08-05,125.00,achats,"Nouvelles chaussures",CASH
+2024-08-05,22.99,divertissement,"Service de streaming",CASH
+2025-08-05,50.0,achats,"T-shirt",CASH
+2025-08-10,50.0,achats,"Étui de téléphone",VISA
+2025-08-27,50.0,gadget,"Étui de téléphone",AMEX
+2025-10-25,50.0,achats,"Affaires",AMEX
